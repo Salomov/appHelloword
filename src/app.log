@@ -1,0 +1,7 @@
+2018-11-08 13:55:19,233 DEBUG  [main] Start
+2018-11-08 13:55:19,241 DEBUG c.e.a.s.DemoLog [main] Argument n is 9
+2018-11-08 13:55:19,242 INFO c.e.a.s.DemoLog [main] Result is 362880
+2018-11-08 13:55:19,242 ERROR c.e.a.s.DemoLog [main] negative argument: 
+java.lang.IllegalArgumentException: argument -3 less than zero
+	at com.exmaple.appxml.students.DemoLog.factorial(DemoLog.java:24) ~[bin/:?]
+	at com.exmaple.appxml.students.DemoLog.main(DemoLog.java:15) [bin/:?]

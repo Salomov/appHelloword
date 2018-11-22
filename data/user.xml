@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <users department="IT">
+	<user number="1">
+		<login>Hoji</login>
+		<password>12345678</password>
+		<lastname>Akbar</lastname>
+		<firstname>Hoji</firstname>
+		<patronymic>Hakim</patronymic>
+		<email>hojisheyx@gmail.com</email>
+		<phone>3232323</phone>
+		<city>Dushanbe</city>
+		<picture>Avatar</picture>
+		<data>01.02.2018</data>
+		<user_info_id>3</user_info_id>
+		<text>sofkgef</text>
+		<path_img>C:\\</path_img>
+		<price>32</price>
+		<status>2</status>
+		<isSell>da</isSell>
+		<category_id>22</category_id>
+	</user>
+	<user number="2">
+		<login>hasan</login>
+		<password>12345678</password>
+		<lastname>salom</lastname>
+		<firstname>hasan</firstname>
+		<patronymic>Hoba</patronymic>
+		<email>testsheyx@gmail.com</email>
+		<phone>323233</phone>
+		<city>horug</city>A	
+		<picture>Avata</picture>
+		<data>01.12.2018</data>
+		<user_info_id>1</user_info_id>
+		<text>sofkgwdqef</text>
+		<path_img>C:\\</path_img>
+		<price>42</price>
+		<status>22</status>
+		<isSell>da-da</isSell>
+		<category_id>12</category_id>
+	</user>
+</users>
